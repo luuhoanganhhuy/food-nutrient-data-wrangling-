@@ -62,7 +62,7 @@ Stage 2: clustering, correlations and predictions techniques
 + Correlation and Mutual Information
 
 ![corrrelation](correlation.PNG)
-+Prediction models: decision trees
++ Prediction models: decision trees
 
 ![prediction_decision_tree](predict_decision_tree.PNG)
 
