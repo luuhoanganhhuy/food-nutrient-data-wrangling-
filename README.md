@@ -32,7 +32,41 @@ Stage 1: Cleanning and visualisation techniques
 + Count the total number of foods and attributes then calculate the median value of a attribute.
 + Add a new attribute to the dataset
 + Visualisation using boxplot
+ 
+![box_plot](box_plot.PNG)
++ Visualisation using barplot
 
+![bar_plot](bar_plot.PNG)
++ Visualisation using scatterplot
 
+![scatter_plot](scatter_plot.PNG)
++ Visualisation using parallel co-ordinates 
+
+![parallel_coordinates_plot](parallel_coordinates_plot.PNG)
++ Visualisation using pie chart
+
+![pie_chart](pie_chart.PNG)
++ Merge and export data to JSON format
+
+Stage 2: clustering, correlations and predictions techniques
++ Standardisation database for effectively techniques using
++  Principle components analysic (PCA)
+
+![PCA](PCA.PNG)
++ Clustering visualisation
+
+![Cluster](cluster.PNG)
++K-means and sum of squared errors
+
+![k_means](k_means.PNG)
++ Correlation and Mutual Information
+
+![corrrelation](correlation.PNG)
++Prediction models: decision trees
+
+![prediction_decision_tree](predict_decision_tree.PNG)
+
++ Prediction models: K-NN
++ Feature generation
 ## Note:
 This project is a university assignment from Element of Data Processing subject in The University of Melbourne, Department of Computing  and Software System, Semester 1 2019.
