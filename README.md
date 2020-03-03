@@ -27,6 +27,7 @@ For this project purpose, these library will be need to imported:
 
 ## Project: 
 See the assignment description attached for more information.
+Stage 1: 
 
 ## Note:
 This project is a university assignment from Element of Data Processing subject in The University of Melbourne, Department of Computing  and Software System, Semester 1 2019.
