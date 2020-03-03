@@ -50,13 +50,13 @@ Stage 1: Cleanning and visualisation techniques
 
 Stage 2: clustering, correlations and predictions techniques
 + Standardisation database for effectively techniques using
-+  Principle components analysic (PCA)
++ Principle components analysic (PCA)
 
 ![PCA](PCA.PNG)
 + Clustering visualisation
 
 ![Cluster](cluster.PNG)
-+K-means and sum of squared errors
++ K-means and sum of squared errors
 
 ![k_means](k_means.PNG)
 + Correlation and Mutual Information
