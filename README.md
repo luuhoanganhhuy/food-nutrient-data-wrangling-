@@ -27,7 +27,12 @@ For this project purpose, these library will be need to imported:
 
 ## Project: 
 See the assignment description attached for more information.
-Stage 1: 
+
+Stage 1: Cleanning and visualisation techniques
++ Count the total number of foods and attributes then calculate the median value of a attribute.
++ Add a new attribute to the dataset
++ Visualisation using boxplot
+
 
 ## Note:
 This project is a university assignment from Element of Data Processing subject in The University of Melbourne, Department of Computing  and Software System, Semester 1 2019.
